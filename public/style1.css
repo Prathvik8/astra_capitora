@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.result{
+    height:200px;
+    width:200px;
+    background-color: aquamarine;
+}
+h1{
+    padding:100px;
+}
